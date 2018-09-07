@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**Welcome to UHack 2018!**, We're glad to have you here.
+**Welcome to UHack 2018!** We're glad to have you here.
 
 You will find all the resources required to understand and progress properly through the Hackathon.
 
